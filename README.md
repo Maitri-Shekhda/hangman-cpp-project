@@ -42,4 +42,5 @@ You can customize the game by modifying the word list file (words.txt). Simply a
 
 ## Contributing
 Maitri
+
 If you have any suggestions for improvements or find any bugs, feel free to open an issue or submit a pull request.

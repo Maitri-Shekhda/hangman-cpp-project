@@ -1,8 +1,8 @@
-Hangman Game
+#Hangman Game
 
 Welcome to the Hangman game repository! This simple C++ program allows you to play the classic word-guessing game where you try to guess a word letter by letter before you run out of attempts.
 
-Overview
+##Overview
 This Hangman game has several key components and functionalities:
 
 Word Selection: The program reads a list of words from a file and randomly selects one for the player to guess.
@@ -13,7 +13,7 @@ Win/Lose Conditions: If the player guesses the word correctly within the allowed
 
 User Interaction: The game provides prompts for the player to input their guesses and displays feedback on whether their guesses are correct.
 
-How to Play
+##How to Play
 Clone this repository to your local machine.
 
 bash

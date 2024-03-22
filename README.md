@@ -37,8 +37,9 @@ Follow the prompts to guess the word or letters. You have a limited number of at
 
 If you guess the word correctly within the allowed tries, you win. Otherwise, you lose.
 
-Customization
+## Customization
 You can customize the game by modifying the word list file (words.txt). Simply add or remove words from the file to change the pool of words from which the game selects.
 
-Contributing
+## Contributing
+Maitri
 If you have any suggestions for improvements or find any bugs, feel free to open an issue or submit a pull request.

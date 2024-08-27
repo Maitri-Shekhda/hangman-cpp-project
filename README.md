@@ -1,4 +1,4 @@
-# Hangaman
+# Hangman
 
 Welcome to the Hangman game repository! This simple C++ program allows you to play the classic word-guessing game where you try to guess a word letter by letter before you run out of attempts.
 

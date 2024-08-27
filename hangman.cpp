@@ -1,5 +1,4 @@
-# hangman-c-project
-#hangman game
+
 #include <iostream>
 #include <fstream>
 #include <vector>

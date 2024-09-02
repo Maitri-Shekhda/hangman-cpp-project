@@ -14,8 +14,7 @@ Win/Lose Conditions: If the player guesses the word correctly within the allowed
 User Interaction: The game provides prompts for the player to input their guesses and displays feedback on whether their guesses are correct.
 
 ## How to play
-**Clone this repository to your local machine.**
-git clone <repository_url>
+**Clone this repository to your local machine.** git clone <repository_url>
 Navigate to the directory containing the cloned repository.
 cd Hangman_Game
 

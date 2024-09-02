@@ -14,14 +14,20 @@ Win/Lose Conditions: If the player guesses the word correctly within the allowed
 User Interaction: The game provides prompts for the player to input their guesses and displays feedback on whether their guesses are correct.
 
 ## How to play
-**Clone this repository to your local machine.** git clone <repository_url>
-Navigate to the directory containing the cloned repository.
-cd Hangman_Game
+**Clone this repository to your local machine.** 
+
+git clone https://github.com/Maitri-Shekhda/hangman-cpp-project.git
+
+**Navigate to the directory containing the cloned repository.**
+
+cd hangman-cpp-project
 
 **Compile the C++ program.**
+
 g++ hangman.cpp -o hangman
 
 **Run the compiled executable.**
+
 ./hangman
 
 Follow the prompts to guess the word or letters. You have a limited number of attempts to guess the word correctly.
@@ -33,5 +39,7 @@ You can customize the game by modifying the word list file (words.txt). Simply a
 
 ## Contributing
 Maitri
+Contributions are welcome! If you have any suggestions or improvements, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change
 
-If you have any suggestions for improvements or find any bugs, feel free to open an issue or submit a pull request.
+## Liscence
+This project is open-source and available under the MIT License.

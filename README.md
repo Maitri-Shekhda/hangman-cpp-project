@@ -38,7 +38,7 @@ If you guess the word correctly within the allowed tries, you win. Otherwise, yo
 You can customize the game by modifying the word list file (words.txt). Simply add or remove words from the file to change the pool of words from which the game selects.
 
 ## Contributing
-Maitri
+
 Contributions are welcome! If you have any suggestions or improvements, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change
 
 ## Liscence

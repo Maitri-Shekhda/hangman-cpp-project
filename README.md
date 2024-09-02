@@ -14,25 +14,17 @@ Win/Lose Conditions: If the player guesses the word correctly within the allowed
 User Interaction: The game provides prompts for the player to input their guesses and displays feedback on whether their guesses are correct.
 
 ## How to play
-Clone this repository to your local machine.
-
-bash
-Copy code
+**Clone this repository to your local machine.**
 git clone <repository_url>
 Navigate to the directory containing the cloned repository.
-
-bash
-Copy code
 cd Hangman_Game
-Compile the C++ program.
 
-Copy code
+**Compile the C++ program.**
 g++ hangman.cpp -o hangman
-Run the compiled executable.
 
-bash
-Copy code
+**Run the compiled executable.**
 ./hangman
+
 Follow the prompts to guess the word or letters. You have a limited number of attempts to guess the word correctly.
 
 If you guess the word correctly within the allowed tries, you win. Otherwise, you lose.
